@@ -6,8 +6,8 @@
 }
 
 header{
-    padding: 0.2rem 0.2rem;
-    margin: 0.5rem 0.5rem;
+    padding: 0.3rem 0.2rem;
+    margin: 0.6rem 0.5rem;
 }
 
 .logo-section img{
@@ -58,8 +58,8 @@ header{
 
 .hero-contact a,
 .hero-contact-why a{
-    font-size: 0.5rem;
-    padding: 0.5rem;
+    font-size: 0.4rem;
+    padding: 0.4rem;
     border-radius: 20px;
 }
 
@@ -68,7 +68,7 @@ header{
     gap: 1rem;
     padding: 1rem;
     border-radius: 20px;
-    margin: 1rem 2rem; 
+    margin: 1rem 1rem; 
     color: white;  
 }
 
@@ -97,7 +97,7 @@ header{
 .services-container{
     display: grid;
     grid-template-columns:repeat(1,minmax(100px,1fr));gap:3rem;
-    padding: 1.6rem;
+    padding:1.2rem 1.2rem;
     justify-content: center;
     align-items: center;
 }
@@ -121,6 +121,8 @@ header{
     height: 350px;
     object-fit: cover;
     border-radius: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .service-text-overlay{
@@ -190,4 +192,5 @@ header{
     line-height: 1.2rem;
     padding: 2rem;
 }
+
 }
