@@ -96,7 +96,7 @@ header{
 
 .services-container{
     display: grid;
-    grid-template-columns:repeat(1,minmax(100px,1fr));gap:3rem;
+    grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:3rem;
     padding:1.2rem 1.2rem;
     justify-content: center;
     align-items: center;
@@ -194,3 +194,4 @@ header{
 }
 
 }
+
