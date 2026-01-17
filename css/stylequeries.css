@@ -895,8 +895,8 @@ header{
 }
 
 .logo-section img{
-    height: 40px;
-    width: 40px;
+    height: 80px;
+    width: 80px;
     padding:0.2rem 0.2rem; 
     margin: 0.3rem 0.3rem;
 }
@@ -941,8 +941,8 @@ header{
 }
 
 .contacts-why{
-    margin-right: 32%;
-    margin-left: 28%;
+    margin-right: 35%;
+    margin-left: 33%;
     padding: 0.6rem;
 }
 
@@ -953,7 +953,7 @@ header{
     border-radius: 20px;
 }
 .achievement:first-child{
-    margin-left: 25%;
+    margin-left: 28%;
 }
 
 .achievement{
@@ -999,7 +999,7 @@ header{
     margin-bottom: 3rem;
     margin-left: px;
     display: grid;
-    grid-template-columns:repeat(2,minmax(10px,1fr));gap:2rem; padding:2rem;
+    grid-template-columns:repeat(3,minmax(10px,1fr));gap:1rem; padding:1rem;
     justify-content: center;
     align-items: center;
     align-content: center;
@@ -1009,8 +1009,8 @@ header{
 .service-text{
     position: relative;
     max-width: 100%;
-    width: 450px;
-    height: 420px;
+    width: 300px;
+    height: 320px;
     align-content: center;
     width: 90%;
     margin: 1rem;
@@ -1020,15 +1020,15 @@ header{
 
 
 .service-text img{
-    width: 450px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
     border-radius: 20px;
 }
 
 .service-text-overlay{
-    width: 450px;
-    height: 457px; 
+    width: 300px;
+    height: 307px; 
 }
 
 .service-text-overlay p{
