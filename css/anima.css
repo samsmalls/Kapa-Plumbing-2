@@ -1,0 +1,147 @@
+
+
+.my-header.inview{
+    animation: 3s slideDown both;
+}
+
+@keyframes slideDown{
+    from{
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+     to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hero-image-one.inview{
+    animation: 4s spin3d linear both ;
+}
+
+@keyframes spin3d{
+    from{
+        transform: rotateY(0deg);
+    }
+
+     to{
+        transform: rotateY(360deg);
+    }
+}
+
+.achievements-container:first-child.inview{
+    animation: 1s slideUp both;
+}
+
+@keyframes slideUp{
+      from{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+     to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+.achievements-container:nth-child(2).inview{
+    animation: 2s slideUp both;
+    }
+
+@keyframes slideUp{
+    from{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+    
+}
+
+.achievements-container:nth-child(3).inview{
+    animation: 2s slideUp both;
+    }
+
+@keyframes slideUp{
+    from{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+     to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+    
+}
+
+.services-main.inview{
+    animation: slideRight 1s both;
+}
+
+@keyframes slideRight{
+    from{
+        opacity: 0.8;
+        transform: translateX(-50px);
+    }
+
+     to{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.why-choose-us-container.inview{
+    animation: slideBottom 3s both;
+}
+
+@keyframes slideBottom{
+    from{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+     to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.uptodate-container.inview{
+    animation: slideLeft 3s both;
+}
+
+@keyframes slideLeft{
+    from{
+        opacity: 0.7;
+        transform: translateX(80px);
+    }
+
+     to{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.biodigester-container.inview{
+    animation: fadeIn 3s both;
+}
+
+@keyframes fadeIn{
+    from{
+        opacity: 0;
+        scale: 0.5;
+    }
+
+     to{
+        opacity: 1;
+        scale: 1;
+    }
+}
+
