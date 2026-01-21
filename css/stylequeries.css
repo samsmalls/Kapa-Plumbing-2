@@ -109,7 +109,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left:2%;
+    margin-right:4%;
+    margin-left:1%;
 }
 
 
@@ -353,7 +354,8 @@ header{
     justify-content: center;
     align-items: center;
     align-content: center;
-     margin-left:2%;
+    margin-right:4%;
+    margin-left:1%;
 }
 
 
@@ -1357,4 +1359,5 @@ header{
 }
 
 }
+
 
