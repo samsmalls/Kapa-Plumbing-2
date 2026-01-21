@@ -105,6 +105,9 @@ header{
     max-width: 100%;
     padding: 3rem 1rem;
     margin-bottom: 3rem;
+    padding: 3rem 1rem;
+    margin-left: 3.5rem;
+    margin-right: 1.1rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1360,6 +1363,7 @@ header{
 }
 
 }
+
 
 
 
