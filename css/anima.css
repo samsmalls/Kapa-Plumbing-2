@@ -88,7 +88,7 @@
 @keyframes slideRight{
     from{
         opacity: 0.8;
-        transform: translateX(-50px);
+        transform: translateX(-150px);
     }
 
      to{
@@ -98,7 +98,7 @@
 }
 
 .why-choose-us-container.inview{
-    animation: slideBottom 3s both;
+    animation: slideBottom 2s both;
 }
 
 @keyframes slideBottom{
@@ -114,7 +114,7 @@
 }
 
 .keeping-uptodate.inview{
-    animation: slideLeft 3s both;
+    animation: slideLeft 2s both;
 }
 
 @keyframes slideLeft{
@@ -130,7 +130,7 @@
 }
 
 .bio-txt.inview{
-    animation: fadeIn 3s both;
+    animation: fadeIn 2s both;
 }
 
 @keyframes fadeIn{
