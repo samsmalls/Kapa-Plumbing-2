@@ -109,8 +109,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-right:4%;
-    margin-left:1%;
+    margin-right: 2.77rem;
 }
 
 
@@ -354,8 +353,7 @@ header{
     justify-content: center;
     align-items: center;
     align-content: center;
-    margin-right:4%;
-    margin-left:1%;
+    margin-right: 2.77rem;
 }
 
 
@@ -1359,5 +1357,6 @@ header{
 }
 
 }
+
 
 
