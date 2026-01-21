@@ -59,8 +59,12 @@ header{
 .hero-contact a,
 .hero-contact-why a{
     font-size: 0.6rem;
-    padding: 0.5rem;
+    padding: 0.3rem;
     border-radius: 20px;
+}
+
+.achievement:first-child{
+    margin-left: 2%;
 }
 
 .achievement{
@@ -350,7 +354,9 @@ header{
     align-content: center;
 }
 
-
+.services-txt:first-child{
+    margin-left:2%;
+}
 .service-text{
     position: relative;
     max-width: 100%;
@@ -1349,4 +1355,5 @@ header{
     line-height: 3rem;
     padding: 2rem;
 }
+
 }
