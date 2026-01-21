@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }, observerOptions);
 
-    const animatedElements = document.querySelectorAll('.my-header, .hero-image-one, .achievement, .service-text, .why-choose-us-container, .keeping-uptodate, .biodigester-container');
+    const animatedElements = document.querySelectorAll('.my-header, .hero-image-one, .achievement, .service-text, .why-choose-us-container, .keeping-uptodate, .bio-txt');
 
     animatedElements.forEach(el => {
         observer.observe(el);
