@@ -347,6 +347,9 @@ header{
     max-width: 100%;
     padding: 3rem 1rem;
     margin-bottom: 3rem;
+    padding: 3rem 1rem;
+    margin-left: 3.5rem;
+    margin-right: 1.1rem;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -360,8 +363,8 @@ header{
 .service-text{
     position: relative;
     max-width: 100%;
-    width: 450px;
-    height: 420px;
+    width: 350px;
+    height: 350px;
     align-content: center;
     width: 90%;
     margin: 1rem auto;
@@ -371,15 +374,15 @@ header{
 
 
 .service-text img{
-    width: 450px;
-    height: 450px;
+    width: 350px;
+    height: 350px;
     object-fit: cover;
     border-radius: 20px;
 }
 
 .service-text-overlay{
-    width: 450px;
-    height: 457px; 
+    width: 350px;
+    height: 357px; 
 }
 
 .service-text-overlay p{
@@ -1357,6 +1360,7 @@ header{
 }
 
 }
+
 
 
 
