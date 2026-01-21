@@ -129,7 +129,7 @@
     }
 }
 
-.biodigester-container.inview{
+.bio-txt.inview{
     animation: fadeIn 3s both;
 }
 
