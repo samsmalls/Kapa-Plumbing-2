@@ -48,6 +48,7 @@ header{
 .hero-text{
     margin-left: 100px;
     font-size: 0.7rem;
+    width:60%;
 }
 
 .contacts-why{
