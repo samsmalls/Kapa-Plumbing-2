@@ -119,8 +119,8 @@ header{
 .service-text{
     position: relative;
     max-width: 100%;
-    width: 350px;
-    height: 320px;
+    width: 250px;
+    height: 220px;
     align-content: center;
     width: 90%;
     margin: 1rem auto;
@@ -130,15 +130,15 @@ header{
 
 
 .service-text img{
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
     border-radius: 20px;
 }
 
 .service-text-overlay{
-    width: 350px;
-    height: 357px; 
+    width: 250px;
+    height: 257px; 
 }
 
 .service-text-overlay p{
