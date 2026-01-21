@@ -319,6 +319,7 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column; 
+    background-color:white
 }
 
 .bio-txt{
@@ -326,7 +327,7 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: white;
+    color: black;
     background-color: #0e162c;
     font-size: 1.2rem;
     line-height: 3rem;
@@ -425,8 +426,10 @@ footer {
     background-color: #0e162c;
     border-radius: 5px;
     transition: background-color 0.3s;
+    color:black;
+    background-color:white;
 }
 
 .back-to-top:hover {
-    background-color: #1a2536;
+    background-color: white;
 }
